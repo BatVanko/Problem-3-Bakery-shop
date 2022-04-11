@@ -18,6 +18,17 @@ o	"{food1}: {quantity}
 {foodN}: {quantity}
 All sold: {count of all sold food quantity} goods"
   
+Input
+Receive 105 cookies
+Receive 10 donuts
+Sell 10 donuts
+Sell 1 bread
+Complete
+Output
+You sold 10 donuts.
+You do not have any bread.
+cookies: 105
+All sold: 10 goods
 
 
  
